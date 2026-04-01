@@ -317,6 +317,19 @@ interrupt/fast:
 	$(MAKE) $(MAKESILENT) -f interrupt/CMakeFiles/interrupt.dir/build.make interrupt/CMakeFiles/interrupt.dir/build
 .PHONY : interrupt/fast
 
+#=============================================================================
+# Target rules for targets named wifi
+
+# Build rule for target.
+wifi: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 wifi
+.PHONY : wifi
+
+# fast build rule for target.
+wifi/fast:
+	$(MAKE) $(MAKESILENT) -f wifi/CMakeFiles/wifi.dir/build.make wifi/CMakeFiles/wifi.dir/build
+.PHONY : wifi/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -341,6 +354,7 @@ help:
 	@echo "... btn"
 	@echo "... interrupt"
 	@echo "... log"
+	@echo "... wifi"
 .PHONY : help
 
 

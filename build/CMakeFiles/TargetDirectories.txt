@@ -676,3 +676,16 @@
 /home/dev/ws/pico/build/interrupt/pico-sdk/CMakeFiles/install.dir
 /home/dev/ws/pico/build/interrupt/pico-sdk/CMakeFiles/install/local.dir
 /home/dev/ws/pico/build/interrupt/pico-sdk/CMakeFiles/install/strip.dir
+/home/dev/ws/pico/build/wifi/CMakeFiles/wifi.dir
+/home/dev/ws/pico/build/wifi/CMakeFiles/edit_cache.dir
+/home/dev/ws/pico/build/wifi/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/pico/build/wifi/CMakeFiles/list_install_components.dir
+/home/dev/ws/pico/build/wifi/CMakeFiles/install.dir
+/home/dev/ws/pico/build/wifi/CMakeFiles/install/local.dir
+/home/dev/ws/pico/build/wifi/CMakeFiles/install/strip.dir
+/home/dev/ws/pico/build/wifi/pico-sdk/CMakeFiles/edit_cache.dir
+/home/dev/ws/pico/build/wifi/pico-sdk/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/pico/build/wifi/pico-sdk/CMakeFiles/list_install_components.dir
+/home/dev/ws/pico/build/wifi/pico-sdk/CMakeFiles/install.dir
+/home/dev/ws/pico/build/wifi/pico-sdk/CMakeFiles/install/local.dir
+/home/dev/ws/pico/build/wifi/pico-sdk/CMakeFiles/install/strip.dir
