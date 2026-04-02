@@ -702,3 +702,16 @@
 /home/dev/ws/pico/build/watchdog/pico-sdk/CMakeFiles/install.dir
 /home/dev/ws/pico/build/watchdog/pico-sdk/CMakeFiles/install/local.dir
 /home/dev/ws/pico/build/watchdog/pico-sdk/CMakeFiles/install/strip.dir
+/home/dev/ws/pico/build/queue/CMakeFiles/queue.dir
+/home/dev/ws/pico/build/queue/CMakeFiles/edit_cache.dir
+/home/dev/ws/pico/build/queue/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/pico/build/queue/CMakeFiles/list_install_components.dir
+/home/dev/ws/pico/build/queue/CMakeFiles/install.dir
+/home/dev/ws/pico/build/queue/CMakeFiles/install/local.dir
+/home/dev/ws/pico/build/queue/CMakeFiles/install/strip.dir
+/home/dev/ws/pico/build/queue/pico-sdk/CMakeFiles/edit_cache.dir
+/home/dev/ws/pico/build/queue/pico-sdk/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/pico/build/queue/pico-sdk/CMakeFiles/list_install_components.dir
+/home/dev/ws/pico/build/queue/pico-sdk/CMakeFiles/install.dir
+/home/dev/ws/pico/build/queue/pico-sdk/CMakeFiles/install/local.dir
+/home/dev/ws/pico/build/queue/pico-sdk/CMakeFiles/install/strip.dir

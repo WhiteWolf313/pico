@@ -394,6 +394,15 @@ picotool_INSTALL_DIR:PATH=/home/dev/ws/pico/build/_deps
 pioasm_DIR:PATH=pioasm_DIR-NOTFOUND
 
 //Value Computed by CMake
+queue_BINARY_DIR:STATIC=/home/dev/ws/pico/build/queue
+
+//Value Computed by CMake
+queue_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+queue_SOURCE_DIR:STATIC=/home/dev/ws/pico/queue
+
+//Value Computed by CMake
 watchdog_BINARY_DIR:STATIC=/home/dev/ws/pico/build/watchdog
 
 //Value Computed by CMake
@@ -533,7 +542,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=115
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=117
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

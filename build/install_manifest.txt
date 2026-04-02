@@ -4,3 +4,4 @@
 /firmware/interrupt.uf2
 /firmware/wifi.uf2
 /firmware/watchdog.uf2
+/firmware/queue.uf2
