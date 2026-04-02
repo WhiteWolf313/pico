@@ -89,8 +89,8 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
   "PICO_RP2350=1"
   "PICO_TARGET_NAME=\"wifi\""
   "PICO_USE_BLOCKED_RAM=0"
-  "WIFI_PASSWORD=\"[5D35C2E6D2]\""
-  "WIFI_SSID=\"[TN_wifi_A28B37]\""
+  "WIFI_PASSWORD=\"5D35C2E6D2\""
+  "WIFI_SSID=\"TN_wifi_A28B37\""
   )
 
 # The include file search paths:

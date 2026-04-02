@@ -330,32 +330,6 @@ wifi/fast:
 	$(MAKE) $(MAKESILENT) -f wifi/CMakeFiles/wifi.dir/build.make wifi/CMakeFiles/wifi.dir/build
 .PHONY : wifi/fast
 
-#=============================================================================
-# Target rules for targets named watchdog
-
-# Build rule for target.
-watchdog: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 watchdog
-.PHONY : watchdog
-
-# fast build rule for target.
-watchdog/fast:
-	$(MAKE) $(MAKESILENT) -f watchdog/CMakeFiles/watchdog.dir/build.make watchdog/CMakeFiles/watchdog.dir/build
-.PHONY : watchdog/fast
-
-#=============================================================================
-# Target rules for targets named queue
-
-# Build rule for target.
-queue: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 queue
-.PHONY : queue
-
-# fast build rule for target.
-queue/fast:
-	$(MAKE) $(MAKESILENT) -f queue/CMakeFiles/queue.dir/build.make queue/CMakeFiles/queue.dir/build
-.PHONY : queue/fast
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -380,8 +354,6 @@ help:
 	@echo "... btn"
 	@echo "... interrupt"
 	@echo "... log"
-	@echo "... queue"
-	@echo "... watchdog"
 	@echo "... wifi"
 .PHONY : help
 

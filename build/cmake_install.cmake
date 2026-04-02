@@ -45,8 +45,6 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/dev/ws/pico/build/btn/cmake_install.cmake")
   include("/home/dev/ws/pico/build/interrupt/cmake_install.cmake")
   include("/home/dev/ws/pico/build/wifi/cmake_install.cmake")
-  include("/home/dev/ws/pico/build/watchdog/cmake_install.cmake")
-  include("/home/dev/ws/pico/build/queue/cmake_install.cmake")
 
 endif()
 
