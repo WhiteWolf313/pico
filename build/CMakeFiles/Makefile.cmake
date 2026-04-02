@@ -147,6 +147,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp/pioasmBuild-mkdirs.cmake"
   "/home/dev/ws/pico/interrupt/CMakeLists.txt"
   "/home/dev/ws/pico/log/CMakeLists.txt"
+  "/home/dev/ws/pico/watchdog/CMakeLists.txt"
   "/home/dev/ws/pico/wifi/CMakeLists.txt"
   "/usr/share/cmake-3.28/Modules/CMakeASMCompiler.cmake.in"
   "/usr/share/cmake-3.28/Modules/CMakeASMInformation.cmake"
@@ -404,6 +405,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "interrupt/pico-sdk/CMakeFiles/CMakeDirectoryInformation.cmake"
   "wifi/CMakeFiles/CMakeDirectoryInformation.cmake"
   "wifi/pico-sdk/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "watchdog/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "watchdog/pico-sdk/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -421,4 +424,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "btn/CMakeFiles/btn.dir/DependInfo.cmake"
   "interrupt/CMakeFiles/interrupt.dir/DependInfo.cmake"
   "wifi/CMakeFiles/wifi.dir/DependInfo.cmake"
+  "watchdog/CMakeFiles/watchdog.dir/DependInfo.cmake"
   )

@@ -689,3 +689,16 @@
 /home/dev/ws/pico/build/wifi/pico-sdk/CMakeFiles/install.dir
 /home/dev/ws/pico/build/wifi/pico-sdk/CMakeFiles/install/local.dir
 /home/dev/ws/pico/build/wifi/pico-sdk/CMakeFiles/install/strip.dir
+/home/dev/ws/pico/build/watchdog/CMakeFiles/watchdog.dir
+/home/dev/ws/pico/build/watchdog/CMakeFiles/edit_cache.dir
+/home/dev/ws/pico/build/watchdog/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/pico/build/watchdog/CMakeFiles/list_install_components.dir
+/home/dev/ws/pico/build/watchdog/CMakeFiles/install.dir
+/home/dev/ws/pico/build/watchdog/CMakeFiles/install/local.dir
+/home/dev/ws/pico/build/watchdog/CMakeFiles/install/strip.dir
+/home/dev/ws/pico/build/watchdog/pico-sdk/CMakeFiles/edit_cache.dir
+/home/dev/ws/pico/build/watchdog/pico-sdk/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/pico/build/watchdog/pico-sdk/CMakeFiles/list_install_components.dir
+/home/dev/ws/pico/build/watchdog/pico-sdk/CMakeFiles/install.dir
+/home/dev/ws/pico/build/watchdog/pico-sdk/CMakeFiles/install/local.dir
+/home/dev/ws/pico/build/watchdog/pico-sdk/CMakeFiles/install/strip.dir
