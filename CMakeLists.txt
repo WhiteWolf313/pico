@@ -10,11 +10,3 @@ set(CMAKE_C_STANDARD 11)
 set(CMAKE_CXX_STANDARD 17)
 
 pico_sdk_init()
-
-add_subdirectory(blink)
-add_subdirectory(log)
-add_subdirectory(btn)
-add_subdirectory(interrupt)
-add_subdirectory(wifi)
-add_subdirectory(watchdog)
-add_subdirectory(queue)
