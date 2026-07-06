@@ -41,12 +41,12 @@ endif()
 
 execute_process(
   COMMAND "/usr/bin/git"
-          checkout "2.2.0" --
+          checkout "2.3.0" --
   WORKING_DIRECTORY "/home/dev/ws/pico/build/_deps/picotool-src"
   RESULT_VARIABLE error_code
 )
 if(error_code)
-  message(FATAL_ERROR "Failed to checkout tag: '2.2.0'")
+  message(FATAL_ERROR "Failed to checkout tag: '2.3.0'")
 endif()
 
 set(init_submodules TRUE)

@@ -27,7 +27,7 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 
 include(ExternalProject)
 ExternalProject_Add(picotool-populate
-                     "GIT_REPOSITORY" "https://github.com/raspberrypi/picotool.git" "GIT_TAG" "2.2.0"
+                     "GIT_REPOSITORY" "https://github.com/raspberrypi/picotool.git" "GIT_TAG" "2.3.0"
                     SOURCE_DIR          "/home/dev/ws/pico/build/_deps/picotool-src"
                     BINARY_DIR          "/home/dev/ws/pico/build/_deps/picotool-build"
                     CONFIGURE_COMMAND   ""

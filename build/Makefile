@@ -278,84 +278,6 @@ blink/fast:
 	$(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/build
 .PHONY : blink/fast
 
-#=============================================================================
-# Target rules for targets named log
-
-# Build rule for target.
-log: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 log
-.PHONY : log
-
-# fast build rule for target.
-log/fast:
-	$(MAKE) $(MAKESILENT) -f log/CMakeFiles/log.dir/build.make log/CMakeFiles/log.dir/build
-.PHONY : log/fast
-
-#=============================================================================
-# Target rules for targets named btn
-
-# Build rule for target.
-btn: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 btn
-.PHONY : btn
-
-# fast build rule for target.
-btn/fast:
-	$(MAKE) $(MAKESILENT) -f btn/CMakeFiles/btn.dir/build.make btn/CMakeFiles/btn.dir/build
-.PHONY : btn/fast
-
-#=============================================================================
-# Target rules for targets named interrupt
-
-# Build rule for target.
-interrupt: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 interrupt
-.PHONY : interrupt
-
-# fast build rule for target.
-interrupt/fast:
-	$(MAKE) $(MAKESILENT) -f interrupt/CMakeFiles/interrupt.dir/build.make interrupt/CMakeFiles/interrupt.dir/build
-.PHONY : interrupt/fast
-
-#=============================================================================
-# Target rules for targets named wifi
-
-# Build rule for target.
-wifi: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 wifi
-.PHONY : wifi
-
-# fast build rule for target.
-wifi/fast:
-	$(MAKE) $(MAKESILENT) -f wifi/CMakeFiles/wifi.dir/build.make wifi/CMakeFiles/wifi.dir/build
-.PHONY : wifi/fast
-
-#=============================================================================
-# Target rules for targets named watchdog
-
-# Build rule for target.
-watchdog: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 watchdog
-.PHONY : watchdog
-
-# fast build rule for target.
-watchdog/fast:
-	$(MAKE) $(MAKESILENT) -f watchdog/CMakeFiles/watchdog.dir/build.make watchdog/CMakeFiles/watchdog.dir/build
-.PHONY : watchdog/fast
-
-#=============================================================================
-# Target rules for targets named queue
-
-# Build rule for target.
-queue: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 queue
-.PHONY : queue
-
-# fast build rule for target.
-queue/fast:
-	$(MAKE) $(MAKESILENT) -f queue/CMakeFiles/queue.dir/build.make queue/CMakeFiles/queue.dir/build
-.PHONY : queue/fast
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -377,12 +299,6 @@ help:
 	@echo "... blink"
 	@echo "... bs2_default"
 	@echo "... bs2_default_library"
-	@echo "... btn"
-	@echo "... interrupt"
-	@echo "... log"
-	@echo "... queue"
-	@echo "... watchdog"
-	@echo "... wifi"
 .PHONY : help
 
 

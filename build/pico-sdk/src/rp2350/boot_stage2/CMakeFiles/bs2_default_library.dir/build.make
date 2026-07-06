@@ -69,28 +69,28 @@ include pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/progr
 # Include the compile flags for this target's objects.
 include pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/flags.make
 
-pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S: pico-sdk/src/rp2350/boot_stage2/bs2_default.bin
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating bs2_default_padded_checksummed.S"
-	cd /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2 && /usr/bin/python3 /home/dev/ws/pico-sdk/src/rp2350/boot_stage2/pad_checksum -s 0xffffffff -a arm /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default.bin /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S
+pico-sdk/src/rp2350/boot_stage2/bs2_default_padded.S: pico-sdk/src/rp2350/boot_stage2/bs2_default.bin
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating bs2_default_padded.S"
+	cd /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2 && /usr/bin/python3 /home/dev/ws/pico-sdk/src/rp2350/boot_stage2/pad /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default.bin /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded.S
 
 pico-sdk/src/rp2350/boot_stage2/bs2_default.bin: pico-sdk/src/rp2350/boot_stage2/bs2_default.elf
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating bs2_default.bin"
 	cd /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2 && /usr/bin/arm-none-eabi-objcopy -Obinary /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default.elf /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default.bin
 
-pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o: pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/flags.make
-pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o: pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building ASM object pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o"
-	cd /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2 && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o   -c /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S
+pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.o: pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/flags.make
+pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.o: pico-sdk/src/rp2350/boot_stage2/bs2_default_padded.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building ASM object pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.o"
+	cd /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2 && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.o   -c /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded.S
 
-pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing ASM source to CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.i"
-	cd /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2 && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S > CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.i
+pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing ASM source to CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.i"
+	cd /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2 && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded.S > CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.i
 
-pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling ASM source to assembly CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.s"
-	cd /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2 && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S -o CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.s
+pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling ASM source to assembly CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.s"
+	cd /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2 && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded.S -o CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.s
 
-bs2_default_library: pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o
+bs2_default_library: pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.o
 bs2_default_library: pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/build.make
 .PHONY : bs2_default_library
 
@@ -103,7 +103,7 @@ pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/clean:
 .PHONY : pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/clean
 
 pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/depend: pico-sdk/src/rp2350/boot_stage2/bs2_default.bin
-pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/depend: pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S
+pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/depend: pico-sdk/src/rp2350/boot_stage2/bs2_default_padded.S
 	cd /home/dev/ws/pico/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/dev/ws/pico /home/dev/ws/pico-sdk/src/rp2350/boot_stage2 /home/dev/ws/pico/build /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2 /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/depend
 

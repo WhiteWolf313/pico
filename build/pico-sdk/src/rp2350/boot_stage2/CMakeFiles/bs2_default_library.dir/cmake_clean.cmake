@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o"
+  "CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.o"
   "bs2_default.bin"
-  "bs2_default_padded_checksummed.S"
+  "bs2_default_padded.S"
 )
 
 # Per-language clean rules from dependency scanning.

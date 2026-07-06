@@ -115,7 +115,7 @@ pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-p
 
 pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-test: pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-install
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Performing test step for 'picotoolBuild'"
-	cd /home/dev/ws/pico/build/_deps/picotool-build && /home/dev/ws/pico/build/_deps/picotool/picotool version 2.1.1
+	cd /home/dev/ws/pico/build/_deps/picotool-build && /home/dev/ws/pico/build/_deps/picotool/picotool version 2.3.0
 	cd /home/dev/ws/pico/build/_deps/picotool-build && /usr/bin/cmake -E touch /home/dev/ws/pico/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-test
 
 pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-update: pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-update-info.txt

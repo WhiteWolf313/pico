@@ -41,12 +41,6 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/dev/ws/pico/build/pico-sdk/cmake_install.cmake")
   include("/home/dev/ws/pico/build/blink/cmake_install.cmake")
-  include("/home/dev/ws/pico/build/log/cmake_install.cmake")
-  include("/home/dev/ws/pico/build/btn/cmake_install.cmake")
-  include("/home/dev/ws/pico/build/interrupt/cmake_install.cmake")
-  include("/home/dev/ws/pico/build/wifi/cmake_install.cmake")
-  include("/home/dev/ws/pico/build/watchdog/cmake_install.cmake")
-  include("/home/dev/ws/pico/build/queue/cmake_install.cmake")
 
 endif()
 

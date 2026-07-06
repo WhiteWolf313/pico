@@ -153,10 +153,23 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_pan
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.s"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/panic.c -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.s
 
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.o: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.o"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S
+
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing ASM source to CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.i"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E /home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S > CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.i
+
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling ASM source to assembly CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.s"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S /home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.s
+
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.o: /home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.o -c /home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.i: cmake_force
@@ -170,7 +183,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.i: cmake_force
@@ -184,7 +197,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/syn
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.i: cmake_force
@@ -198,7 +211,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spi
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.i: cmake_force
@@ -211,7 +224,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq.
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i: cmake_force
@@ -225,7 +238,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_irq/irq_
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/sem.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/sem.c.o: /home/dev/ws/pico-sdk/src/common/pico_sync/sem.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/sem.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/sem.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/sem.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/sem.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/sem.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/sem.c.o -c /home/dev/ws/pico-sdk/src/common/pico_sync/sem.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/sem.c.i: cmake_force
@@ -239,7 +252,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/sem.c.s: cm
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c.o: /home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c.o -c /home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c.i: cmake_force
@@ -253,7 +266,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/lock_core.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c.o: /home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c.o -c /home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c.i: cmake_force
@@ -267,7 +280,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/mutex.c.s: 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c.o: /home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c.o -c /home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/critical_section.c.i: cmake_force
@@ -281,7 +294,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_sync/critical_se
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.o: /home/dev/ws/pico-sdk/src/common/pico_time/time.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.o -c /home/dev/ws/pico-sdk/src/common/pico_time/time.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.i: cmake_force
@@ -295,7 +308,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.s: c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o: /home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o -c /home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.i: cmake_force
@@ -309,7 +322,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_hel
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.i: cmake_force
@@ -323,7 +336,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/ti
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o: /home/dev/ws/pico-sdk/src/common/pico_util/datetime.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o -c /home/dev/ws/pico-sdk/src/common/pico_util/datetime.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.i: cmake_force
@@ -334,10 +347,24 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.s"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dev/ws/pico-sdk/src/common/pico_util/datetime.c -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.s
 
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o: /home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o -c /home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c
+
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.i"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c > CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.i
+
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.s"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.s
+
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o: /home/dev/ws/pico-sdk/src/common/pico_util/pheap.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o -c /home/dev/ws/pico-sdk/src/common/pico_util/pheap.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.i: cmake_force
@@ -351,7 +378,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.s: 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o: /home/dev/ws/pico-sdk/src/common/pico_util/queue.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o -c /home/dev/ws/pico-sdk/src/common/pico_util/queue.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.i: cmake_force
@@ -365,7 +392,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.s: 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.i: cmake_force
@@ -379,7 +406,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uar
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i: cmake_force
@@ -393,7 +420,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_clocks/c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.i: cmake_force
@@ -407,7 +434,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pll/pll.
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i: cmake_force
@@ -421,7 +448,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_vreg/vre
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i: cmake_force
@@ -435,7 +462,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_watchdog
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.i: cmake_force
@@ -449,7 +476,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_ticks/ti
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i: cmake_force
@@ -463,7 +490,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/boot
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.i: cmake_force
@@ -477,7 +504,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/boot
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_lock/boot_lock.c.i: cmake_force
@@ -491,7 +518,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_boot_loc
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.c.i: cmake_force
@@ -505,7 +532,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_flash/flash.
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i: cmake_force
@@ -519,7 +546,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xosc/xos
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/divider.c.i: cmake_force
@@ -533,7 +560,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_divider/
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i: cmake_force
@@ -547,7 +574,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime/runt
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.i: cmake_force
@@ -561,7 +588,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.i: cmake_force
@@ -575,7 +602,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.i: cmake_force
@@ -588,7 +615,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_runtime_init
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i: cmake_force
@@ -602,7 +629,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divider_compiler.c.i: cmake_force
@@ -616,7 +643,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_divider/divi
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_math.c.i: cmake_force
@@ -629,7 +656,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/doubl
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_dcp.S.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_dcp.S.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_dcp.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_dcp.S.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_dcp.S.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_dcp.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_dcp.S
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_dcp.S.i: cmake_force
@@ -642,7 +669,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/doubl
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S.i: cmake_force
@@ -655,7 +682,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/doubl
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S.i: cmake_force
@@ -668,7 +695,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/doubl
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S.i: cmake_force
@@ -682,7 +709,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_double/doubl
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_math.c.i: cmake_force
@@ -695,7 +722,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.i: cmake_force
@@ -708,7 +735,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.i: cmake_force
@@ -721,7 +748,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S.i: cmake_force
@@ -735,7 +762,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/malloc.c.i: cmake_force
@@ -749,7 +776,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_malloc/mallo
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.i: cmake_force
@@ -763,7 +790,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomi
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.i: cmake_force
@@ -777,7 +804,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.i: cmake_force
@@ -791,7 +818,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_standard_bin
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.i: cmake_force
@@ -804,7 +831,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/print
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building ASM object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.o   -c /home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.i: cmake_force
@@ -818,7 +845,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.i: cmake_force
@@ -829,10 +856,24 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interfa
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.s"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.s
 
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c
+
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.i"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c > CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.i
+
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.s"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.s
+
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i: cmake_force
@@ -846,7 +887,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i: cmake_force
@@ -857,10 +898,24 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/s
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
 
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c
+
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.i"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c > CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.i
+
+blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.s"
+	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.s
+
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i: cmake_force
@@ -874,7 +929,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i: cmake_force
@@ -888,7 +943,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i: cmake_force
@@ -902,7 +957,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i: cmake_force
@@ -916,7 +971,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i: cmake_force
@@ -930,7 +985,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/un
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.i: cmake_force
@@ -944,7 +999,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/fl
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cache/xip_cache.c.i: cmake_force
@@ -958,7 +1013,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_xip_cach
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.i: cmake_force
@@ -972,7 +1027,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o: /home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.o -c /home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i: cmake_force
@@ -986,7 +1041,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o: /home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.o -c /home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i: cmake_force
@@ -1000,7 +1055,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_stats
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o: /home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.o -c /home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i: cmake_force
@@ -1014,7 +1069,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o: /home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.o -c /home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i: cmake_force
@@ -1028,7 +1083,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.i: cmake_force
@@ -1042,7 +1097,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.i: cmake_force
@@ -1056,7 +1111,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.c.i: cmake_force
@@ -1070,7 +1125,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_pio/pio.
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.c.i: cmake_force
@@ -1084,7 +1139,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_dma/dma.
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c.o: /home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_exception/exception.c.i: cmake_force
@@ -1098,7 +1153,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_exceptio
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.i: cmake_force
@@ -1112,7 +1167,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_driver
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.i: cmake_force
@@ -1126,7 +1181,7 @@ blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_contex
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o: blink/CMakeFiles/blink.dir/flags.make
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o: /home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o"
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o -MF CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o.d -o CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o -c /home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c
 
 blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i: cmake_force
@@ -1145,6 +1200,7 @@ blink_OBJECTS = \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2350/pico_platform/platform.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_common/common.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.o" \
+"CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o" \
@@ -1158,6 +1214,7 @@ blink_OBJECTS = \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o" \
+"CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o" \
@@ -1194,8 +1251,10 @@ blink_OBJECTS = \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o" \
+"CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o" \
+"CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o" \
 "CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o" \
@@ -1226,6 +1285,7 @@ blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2350/pico_platform/platform.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_common/common.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.o
+blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/hardware_claim/claim.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
@@ -1239,6 +1299,7 @@ blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o
+blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o
@@ -1275,8 +1336,10 @@ blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
+blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.o
@@ -1298,10 +1361,54 @@ blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.o
 blink/blink.elf: blink/CMakeFiles/blink.dir/build.make
-blink/blink.elf: pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o
-blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/rp2350/memmap_default.ld
+blink/blink.elf: pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.o
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2350/pico_platform/memmap_default.ld
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2350/pico_platform/script_include/section_platform_end.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/default_rodata_excludes.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/default_text_excludes.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/memmap_default.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/memory_aliases_flash.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/memory_extra.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/memory_flash.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/memory_generated.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/memory_psram.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/memory_ram.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/memory_scratch.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/memory_xip_ram.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_binary_info.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_boot2.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_default_data.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_default_rodata.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_default_text.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_end.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_extra_post_data.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_extra_post_end.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_extra_post_platform_end.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_extra_post_scratch.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_extra_post_text.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_flash_begin.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_flash_end.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_generated_post_data.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_generated_post_end.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_generated_post_platform_end.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_generated_post_scratch.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_generated_post_text.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_heap.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_persistent_data.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_ram_vector_table.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_tls.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_uninitialized_data.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/section_xip_ram.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/sections_arm_ex.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/sections_default.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/sections_default_data.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/sections_default_text.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/sections_psram.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/sections_scratch.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/sections_stack.incl
+blink/blink.elf: /home/dev/ws/pico-sdk/src/rp2_common/pico_standard_link/script_include/set_memory_locations.incl
 blink/blink.elf: blink/CMakeFiles/blink.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Linking CXX executable blink.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/dev/ws/pico/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Linking CXX executable blink.elf"
 	cd /home/dev/ws/pico/build/blink && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/blink.dir/link.txt --verbose=$(VERBOSE)
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-objdump -h /home/dev/ws/pico/build/blink/blink.elf > blink.dis
 	cd /home/dev/ws/pico/build/blink && /usr/bin/arm-none-eabi-objdump -d /home/dev/ws/pico/build/blink/blink.elf >> blink.dis

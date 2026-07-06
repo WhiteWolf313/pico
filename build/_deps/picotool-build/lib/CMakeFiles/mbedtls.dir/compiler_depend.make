@@ -19,73 +19,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/aes.c.o: /ho
   /home/dev/ws/pico-sdk/lib/mbedtls/library/ctr.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/padlock.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -101,14 +34,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/aes.c.o: /ho
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/aesni.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/aesni.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
@@ -124,62 +121,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/aesni.c.o: /
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -194,13 +135,66 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/aesni.c.o: /
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/aria.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/aria.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -211,59 +205,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/aria.c.o: /h
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -276,13 +217,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/aria.c.o: /h
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/asn1parse.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/asn1parse.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
@@ -300,73 +291,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/asn1parse.c.
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -382,14 +306,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/asn1parse.c.
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/asn1write.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/asn1write.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
@@ -408,73 +396,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/asn1write.c.
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -490,14 +411,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/asn1write.c.
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/base64.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/base64.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/base64.h \
@@ -507,8 +492,10 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/base64.c.o: 
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/config_adjust_legacy_crypto.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/config_adjust_ssl.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/config_adjust_x509.h \
+  /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/private_access.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/base64_internal.h \
@@ -516,73 +503,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/base64.c.o: 
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_impl.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_internal.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -598,14 +518,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/base64.c.o: 
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/bignum.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
@@ -627,73 +611,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum.c.o: 
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_impl.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_internal.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -709,14 +626,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum.c.o: 
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
@@ -732,78 +713,12 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core.
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/private_access.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core.h \
+  /home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core_invasive.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/bn_mul.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_impl.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_internal.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -819,14 +734,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core.
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/camellia.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/camellia.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -842,73 +821,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/camellia.c.o
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -924,14 +836,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/camellia.c.o
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ccm.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/ccm.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -942,59 +918,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ccm.c.o: /ho
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1007,13 +930,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ccm.c.o: /ho
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/chacha20.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/chacha20.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -1024,59 +997,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/chacha20.c.o
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1089,13 +1009,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/chacha20.c.o
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/chachapoly.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/chachapoly.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -1106,59 +1076,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/chachapoly.c
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1171,13 +1088,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/chachapoly.c
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/cipher.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
@@ -1194,78 +1161,12 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher.c.o: 
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/private_access.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
+  /home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_invasive.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_wrap.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_impl.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_internal.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1281,14 +1182,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher.c.o: 
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_wrap.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_wrap.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
@@ -1308,73 +1273,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_wrap.
   /home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_wrap.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1390,14 +1288,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_wrap.
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/cmac.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/cmac.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -1408,59 +1370,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/cmac.c.o: /h
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1473,13 +1382,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/cmac.c.o: /h
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
@@ -1498,73 +1457,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/constant_tim
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_impl.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_internal.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1580,14 +1472,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/constant_tim
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/ctr_drbg.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
@@ -1608,73 +1564,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/ctr.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1690,14 +1579,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ctr_drbg.c.o
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/des.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/des.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -1708,59 +1661,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/des.c.o: /ho
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1773,13 +1673,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/des.c.o: /ho
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/dhm.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/dhm.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -1790,59 +1740,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/dhm.c.o: /ho
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1855,13 +1752,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/dhm.c.o: /ho
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecdh.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/ecdh.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -1872,59 +1819,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecdh.c.o: /h
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -1937,13 +1831,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecdh.c.o: /h
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecdsa.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/ecdsa.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
@@ -1963,75 +1907,9 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecdsa.c.o: /
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/private_access.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
+  /home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_internal.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -2047,14 +1925,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecdsa.c.o: /
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecjpake.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/ecjpake.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -2065,59 +2007,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecjpake.c.o:
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -2130,13 +2019,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecjpake.c.o:
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/ecp.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
@@ -2153,79 +2092,13 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp.c.o: /ho
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/private_access.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/threading.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
+  /home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_internal.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_mod.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/bn_mul.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_internal_alt.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_invasive.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -2241,14 +2114,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp.c.o: /ho
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_curves.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_curves.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
@@ -2271,73 +2208,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_curves.c
   /home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_internal.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_invasive.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -2353,14 +2223,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_curves.c
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/entropy.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -2379,73 +2313,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy.c.o:
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/entropy_poll.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -2461,14 +2328,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy.c.o:
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy_poll.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/entropy_poll.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -2488,95 +2419,9 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy_poll
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/entropy_poll.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/asm/bitsperlong.h \
-  /usr/include/aarch64-linux-gnu/asm/errno.h \
-  /usr/include/aarch64-linux-gnu/asm/unistd.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/confname.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/environments.h \
-  /usr/include/aarch64-linux-gnu/bits/errno.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/getopt_core.h \
-  /usr/include/aarch64-linux-gnu/bits/getopt_posix.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix_opt.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/syscall.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/timex.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/error_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/uio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/unistd-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/unistd.h \
-  /usr/include/aarch64-linux-gnu/bits/unistd_ext.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/bits/xopen_lim.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/syscall.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
-  /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
-  /usr/include/asm-generic/unistd.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -2595,14 +2440,95 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy_poll
   /usr/include/strings.h \
   /usr/include/time.h \
   /usr/include/unistd.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/asm/errno.h \
+  /usr/include/x86_64-linux-gnu/asm/unistd.h \
+  /usr/include/x86_64-linux-gnu/asm/unistd_64.h \
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/confname.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/environments.h \
+  /usr/include/x86_64-linux-gnu/bits/errno.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
+  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/syscall.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/timex.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/syscall.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/error.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/error.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
@@ -2640,73 +2566,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/error.c.o: /
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -2722,14 +2581,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/error.c.o: /
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/gcm.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/gcm.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -2740,59 +2663,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/gcm.c.o: /ho
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -2805,13 +2675,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/gcm.c.o: /ho
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/hkdf.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/hkdf.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -2828,62 +2748,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/hkdf.c.o: /h
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -2898,13 +2762,66 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/hkdf.c.o: /h
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/hmac_drbg.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/hmac_drbg.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -2922,73 +2839,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/hmac_drbg.c.
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3004,14 +2854,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/hmac_drbg.c.
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/md.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/md.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -3035,73 +2949,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/md.c.o: /hom
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/md_wrap.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3117,14 +2964,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/md.c.o: /hom
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/md5.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/md5.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -3141,73 +3052,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/md5.c.o: /ho
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3223,14 +3067,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/md5.c.o: /ho
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -3241,59 +3149,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/memory_buffe
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3306,13 +3161,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/memory_buffe
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/mps_reader.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/mps_reader.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -3323,59 +3228,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/mps_reader.c
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3388,13 +3240,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/mps_reader.c
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/mps_trace.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/mps_trace.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -3405,59 +3307,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/mps_trace.c.
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3470,13 +3319,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/mps_trace.c.
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/nist_kw.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/nist_kw.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -3487,59 +3386,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/nist_kw.c.o:
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3552,13 +3398,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/nist_kw.c.o:
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/oid.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/oid.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
@@ -3583,73 +3479,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/oid.c.o: /ho
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3665,14 +3494,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/oid.c.o: /ho
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/padlock.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/padlock.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
@@ -3688,62 +3581,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/padlock.c.o:
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/padlock.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3758,13 +3595,66 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/padlock.c.o:
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pem.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/pem.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
@@ -3786,73 +3676,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pem.c.o: /ho
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3868,14 +3691,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pem.c.o: /ho
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pk.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/pk.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
@@ -3898,73 +3785,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pk.c.o: /hom
   /home/dev/ws/pico-sdk/lib/mbedtls/library/pk_wrap.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/pkwrite.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -3980,14 +3800,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pk.c.o: /hom
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pk_ecc.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/pk_ecc.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
@@ -4008,73 +3892,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pk_ecc.c.o: 
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/pk_internal.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -4090,14 +3907,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pk_ecc.c.o: 
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pk_wrap.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/pk_wrap.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
@@ -4152,73 +4033,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pk_wrap.c.o:
   /home/dev/ws/pico-sdk/lib/mbedtls/library/pk_internal.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/pk_wrap.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -4234,14 +4048,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pk_wrap.c.o:
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs12.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs12.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
@@ -4293,73 +4171,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs12.c.o: 
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_util_internal.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -4375,14 +4186,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs12.c.o: 
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs5.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs5.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
@@ -4437,73 +4312,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs5.c.o: /
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_util_internal.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -4519,14 +4327,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs5.c.o: /
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkparse.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/pkparse.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
@@ -4554,73 +4426,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkparse.c.o:
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/pk_internal.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -4636,14 +4441,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkparse.c.o:
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkwrite.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/pkwrite.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
@@ -4671,73 +4540,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkwrite.c.o:
   /home/dev/ws/pico-sdk/lib/mbedtls/library/pk_internal.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/pkwrite.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -4753,14 +4555,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/pkwrite.c.o:
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/platform.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/platform.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -4776,73 +4642,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/platform.c.o
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -4858,14 +4657,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/platform.c.o
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/platform_util.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/platform_util.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -4881,83 +4744,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/platform_uti
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/confname.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/environments.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/getopt_core.h \
-  /usr/include/aarch64-linux-gnu/bits/getopt_posix.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix_opt.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/timex.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/uio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/unistd-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/unistd.h \
-  /usr/include/aarch64-linux-gnu/bits/unistd_ext.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/bits/xopen_lim.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -4975,14 +4761,88 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/platform_uti
   /usr/include/strings.h \
   /usr/include/time.h \
   /usr/include/unistd.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/confname.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/environments.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
+  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/timex.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/poly1305.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/poly1305.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -4999,73 +4859,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/poly1305.c.o
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5081,14 +4874,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/poly1305.c.o
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -5100,59 +4957,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto.c
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_core_common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5165,13 +4969,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto.c
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -5182,59 +5036,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_a
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5247,13 +5048,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_a
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -5264,59 +5115,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_c
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5329,13 +5127,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_c
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_client.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
@@ -5381,73 +5229,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_c
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5463,14 +5244,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_c
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -5481,59 +5326,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_e
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5546,13 +5338,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_e
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -5563,59 +5405,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_h
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5628,13 +5417,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_h
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -5645,59 +5484,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_m
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5710,13 +5496,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_m
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -5727,59 +5563,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_r
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5792,13 +5575,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_r
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_se.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -5809,59 +5642,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_s
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5874,13 +5654,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_s
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -5891,59 +5721,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_s
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -5956,13 +5733,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_s
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -5973,59 +5800,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_s
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -6038,13 +5812,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_s
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_its_file.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_its_file.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6055,59 +5879,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_its_file
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -6120,13 +5891,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_its_file
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ripemd160.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/ripemd160.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6137,59 +5958,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ripemd160.c.
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -6202,13 +5970,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/ripemd160.c.
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/rsa.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/rsa.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6219,59 +6037,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/rsa.c.o: /ho
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -6284,13 +6049,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/rsa.c.o: /ho
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/rsa_alt_helpers.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/rsa_alt_helpers.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6301,59 +6116,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/rsa_alt_help
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -6366,13 +6128,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/rsa_alt_help
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/sha1.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/sha1.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6389,73 +6201,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/sha1.c.o: /h
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -6471,14 +6216,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/sha1.c.o: /h
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/sha256.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/sha256.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6495,75 +6304,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/sha256.c.o: 
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/timex.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/uio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/bits/xopen_lim.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -6579,14 +6319,80 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/sha256.c.o: 
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/timex.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/sha512.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/sha512.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6603,73 +6409,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/sha512.c.o: 
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -6685,14 +6424,78 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/sha512.c.o: 
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/time.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/threading.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/threading.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6703,31 +6506,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/threading.c.
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
   /usr/include/assert.h \
   /usr/include/features-time64.h \
   /usr/include/features.h \
@@ -6737,13 +6515,35 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/threading.c.
   /usr/include/stdint.h \
   /usr/include/stdlib.h \
   /usr/include/string.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/timing.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/timing.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6756,116 +6556,13 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/timing.c.o: 
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/asm/bitsperlong.h \
-  /usr/include/aarch64-linux-gnu/asm/posix_types.h \
-  /usr/include/aarch64-linux-gnu/asm/sigcontext.h \
-  /usr/include/aarch64-linux-gnu/asm/sve_context.h \
-  /usr/include/aarch64-linux-gnu/asm/types.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/confname.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/environments.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/getopt_core.h \
-  /usr/include/aarch64-linux-gnu/bits/getopt_posix.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix_opt.h \
-  /usr/include/aarch64-linux-gnu/bits/procfs-extra.h \
-  /usr/include/aarch64-linux-gnu/bits/procfs-id.h \
-  /usr/include/aarch64-linux-gnu/bits/procfs-prregset.h \
-  /usr/include/aarch64-linux-gnu/bits/procfs.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/sigaction.h \
-  /usr/include/aarch64-linux-gnu/bits/sigcontext.h \
-  /usr/include/aarch64-linux-gnu/bits/sigevent-consts.h \
-  /usr/include/aarch64-linux-gnu/bits/siginfo-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/siginfo-consts.h \
-  /usr/include/aarch64-linux-gnu/bits/signal_ext.h \
-  /usr/include/aarch64-linux-gnu/bits/signum-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/signum-generic.h \
-  /usr/include/aarch64-linux-gnu/bits/sigstack.h \
-  /usr/include/aarch64-linux-gnu/bits/sigstksz.h \
-  /usr/include/aarch64-linux-gnu/bits/sigthread.h \
-  /usr/include/aarch64-linux-gnu/bits/ss_flags.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigval_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sig_atomic_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigevent_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/siginfo_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigval_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/stack_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_sigstack.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/unistd-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/unistd.h \
-  /usr/include/aarch64-linux-gnu/bits/unistd_ext.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/procfs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/time.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
-  /usr/include/aarch64-linux-gnu/sys/ucontext.h \
-  /usr/include/aarch64-linux-gnu/sys/user.h \
   /usr/include/alloca.h \
-  /usr/include/asm-generic/bitsperlong.h \
-  /usr/include/asm-generic/int-ll64.h \
-  /usr/include/asm-generic/posix_types.h \
-  /usr/include/asm-generic/types.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
   /usr/include/features-time64.h \
   /usr/include/features.h \
   /usr/include/limits.h \
   /usr/include/linux/limits.h \
-  /usr/include/linux/posix_types.h \
-  /usr/include/linux/stddef.h \
-  /usr/include/linux/types.h \
   /usr/include/signal.h \
   /usr/include/stdc-predef.h \
   /usr/include/stdint.h \
@@ -6874,13 +6571,95 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/timing.c.o: 
   /usr/include/strings.h \
   /usr/include/time.h \
   /usr/include/unistd.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/confname.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/environments.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
+  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/sigaction.h \
+  /usr/include/x86_64-linux-gnu/bits/sigcontext.h \
+  /usr/include/x86_64-linux-gnu/bits/sigevent-consts.h \
+  /usr/include/x86_64-linux-gnu/bits/siginfo-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/siginfo-consts.h \
+  /usr/include/x86_64-linux-gnu/bits/signal_ext.h \
+  /usr/include/x86_64-linux-gnu/bits/signum-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/signum-generic.h \
+  /usr/include/x86_64-linux-gnu/bits/sigstack.h \
+  /usr/include/x86_64-linux-gnu/bits/sigstksz.h \
+  /usr/include/x86_64-linux-gnu/bits/sigthread.h \
+  /usr/include/x86_64-linux-gnu/bits/ss_flags.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sig_atomic_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/siginfo_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigval_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/stack_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_sigstack.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/time.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/include/x86_64-linux-gnu/sys/ucontext.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/version.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6892,59 +6671,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version.c.o:
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -6957,13 +6683,63 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version.c.o:
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_features.c.o: /home/dev/ws/pico-sdk/lib/mbedtls/library/version_features.c \
   /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h \
@@ -6975,59 +6751,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_feat
   /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h \
   /home/dev/ws/pico-sdk/lib/mbedtls/library/common.h \
   /home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
-  /usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/aarch64-linux-gnu/bits/byteswap.h \
-  /usr/include/aarch64-linux-gnu/bits/endian.h \
-  /usr/include/aarch64-linux-gnu/bits/endianness.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn-common.h \
-  /usr/include/aarch64-linux-gnu/bits/floatn.h \
-  /usr/include/aarch64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/aarch64-linux-gnu/bits/local_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/long-double.h \
-  /usr/include/aarch64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/aarch64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/aarch64-linux-gnu/bits/select-decl.h \
-  /usr/include/aarch64-linux-gnu/bits/select.h \
-  /usr/include/aarch64-linux-gnu/bits/select2.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-least.h \
-  /usr/include/aarch64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/aarch64-linux-gnu/bits/stdlib.h \
-  /usr/include/aarch64-linux-gnu/bits/string_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/strings_fortified.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/aarch64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/aarch64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/aarch64-linux-gnu/bits/time64.h \
-  /usr/include/aarch64-linux-gnu/bits/timesize.h \
-  /usr/include/aarch64-linux-gnu/bits/types.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/aarch64-linux-gnu/bits/types/time_t.h \
-  /usr/include/aarch64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/aarch64-linux-gnu/bits/typesizes.h \
-  /usr/include/aarch64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/aarch64-linux-gnu/bits/waitflags.h \
-  /usr/include/aarch64-linux-gnu/bits/waitstatus.h \
-  /usr/include/aarch64-linux-gnu/bits/wchar.h \
-  /usr/include/aarch64-linux-gnu/bits/wordsize.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h \
-  /usr/include/aarch64-linux-gnu/gnu/stubs.h \
-  /usr/include/aarch64-linux-gnu/sys/cdefs.h \
-  /usr/include/aarch64-linux-gnu/sys/select.h \
-  /usr/include/aarch64-linux-gnu/sys/types.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/endian.h \
@@ -7040,62 +6763,92 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_feat
   /usr/include/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h
+  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endianness.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+  /usr/include/x86_64-linux-gnu/bits/floatn.h \
+  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/x86_64-linux-gnu/bits/select-decl.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+  /usr/include/x86_64-linux-gnu/bits/time64.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
 
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/version.c:
 
-/usr/include/linux/types.h:
+/usr/include/x86_64-linux-gnu/sys/ucontext.h:
 
-/usr/include/linux/posix_types.h:
+/usr/include/x86_64-linux-gnu/bits/types/sigval_t.h:
 
-/usr/include/asm-generic/posix_types.h:
+/usr/include/x86_64-linux-gnu/bits/types/siginfo_t.h:
 
-/usr/include/asm-generic/int-ll64.h:
+/usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h:
 
-/usr/include/aarch64-linux-gnu/sys/user.h:
+/usr/include/x86_64-linux-gnu/bits/types/sig_atomic_t.h:
 
-/usr/include/aarch64-linux-gnu/sys/ucontext.h:
+/usr/include/x86_64-linux-gnu/bits/ss_flags.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/struct_sigstack.h:
+/usr/include/x86_64-linux-gnu/bits/sigthread.h:
 
-/usr/include/aarch64-linux-gnu/sys/procfs.h:
+/usr/include/x86_64-linux-gnu/bits/sigstksz.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/stack_t.h:
+/usr/include/x86_64-linux-gnu/bits/sigstack.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/sigval_t.h:
+/usr/include/x86_64-linux-gnu/bits/siginfo-arch.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/siginfo_t.h:
+/usr/include/x86_64-linux-gnu/bits/sigcontext.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/sigevent_t.h:
+/usr/include/x86_64-linux-gnu/bits/sigaction.h:
 
-/usr/include/aarch64-linux-gnu/bits/ss_flags.h:
-
-/usr/include/aarch64-linux-gnu/bits/sigthread.h:
-
-/usr/include/aarch64-linux-gnu/bits/sigstksz.h:
-
-/usr/include/aarch64-linux-gnu/bits/sigstack.h:
-
-/usr/include/aarch64-linux-gnu/bits/signum-generic.h:
-
-/usr/include/aarch64-linux-gnu/bits/sigcontext.h:
-
-/usr/include/aarch64-linux-gnu/bits/procfs.h:
-
-/usr/include/aarch64-linux-gnu/bits/procfs-id.h:
-
-/usr/include/aarch64-linux-gnu/bits/signum-arch.h:
-
-/usr/include/aarch64-linux-gnu/asm/sigcontext.h:
-
-/usr/include/aarch64-linux-gnu/asm/posix_types.h:
+/usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/timing.c:
 
@@ -7107,159 +6860,171 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_feat
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/rsa.c:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/ripemd160.c:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_its_file.c:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/version.h:
+/usr/include/x86_64-linux-gnu/bits/select-decl.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_se.c:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_impl.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c:
+/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/sigset_t.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_core_common.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_internal.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/aesni.c:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/mps_trace.c:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/base64.c:
+
+/usr/include/x86_64-linux-gnu/bits/siginfo-consts.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/local_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/constant_time.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1write.h:
 
 /usr/include/asm-generic/errno.h:
 
-/usr/lib/gcc/aarch64-linux-gnu/13/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h:
 
-/usr/include/aarch64-linux-gnu/bits/pthread_stack_min-dynamic.h:
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
-/usr/include/aarch64-linux-gnu/bits/struct_rwlock.h:
-
-/usr/lib/gcc/aarch64-linux-gnu/13/include/stddef.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/base64.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/version_features.c:
-
-/usr/include/time.h:
-
-/usr/include/stdlib.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c:
-
-/usr/include/stdio.h:
-
-/usr/include/aarch64-linux-gnu/bits/siginfo-consts.h:
-
-/usr/include/linux/limits.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/cookie_io_functions_t.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/pk_wrap.c:
-
-/usr/include/aarch64-linux-gnu/sys/time.h:
-
-/usr/include/limits.h:
-
-/usr/include/inttypes.h:
-
-/usr/include/features.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_internal.h:
-
-/usr/include/features-time64.h:
-
-/usr/include/stdint.h:
-
-/usr/include/endian.h:
-
-/usr/include/alloca.h:
-
-/usr/include/aarch64-linux-gnu/bits/stdint-intn.h:
-
-/usr/include/aarch64-linux-gnu/bits/wordsize.h:
-
-/usr/include/asm-generic/errno-base.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_util_internal.h:
-
-/usr/include/aarch64-linux-gnu/bits/waitflags.h:
-
-/usr/include/aarch64-linux-gnu/sys/cdefs.h:
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto_builtin_primitives.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto_driver_contexts_primitives.h:
 
-/usr/include/aarch64-linux-gnu/bits/typesizes.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum.c:
 
-/usr/include/aarch64-linux-gnu/bits/types/time_t.h:
+/usr/include/assert.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/struct_timeval.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_core_common.h:
+
+/usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time.c:
+
+/usr/include/x86_64-linux-gnu/asm/errno.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/oid.c:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
+
+/usr/include/x86_64-linux-gnu/bits/floatn.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/chacha20.c:
+
+/usr/include/x86_64-linux-gnu/bits/timesize.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/time64.h:
+
+/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/base64.h:
+
+/usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
+
+/usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_util_internal.h:
+
+/usr/include/x86_64-linux-gnu/bits/strings_fortified.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-least.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_internal.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/aesni.c:
+
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core_invasive.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/pk_wrap.c:
+
+/usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
+
+/usr/include/alloca.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_invasive.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/ctr.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/struct_timespec.h:
+/usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core.h:
+/usr/include/x86_64-linux-gnu/bits/signal_ext.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/struct_itimerspec.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/padlock.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/struct_FILE.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/asn1write.c:
 
-/usr/include/aarch64-linux-gnu/bits/types/clockid_t.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/private_access.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/chacha20.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/sha256.c:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto.c:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/rsa_alt_helpers.c:
+/usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/struct_tm.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/hmac_drbg.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c:
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/ripemd160.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/__mbstate_t.h:
+/usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h:
 
-/usr/include/aarch64-linux-gnu/bits/endianness.h:
+/usr/include/x86_64-linux-gnu/bits/time.h:
 
-/usr/include/aarch64-linux-gnu/bits/endian.h:
+/usr/include/x86_64-linux-gnu/bits/select.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecjpake.h:
+/usr/include/x86_64-linux-gnu/sys/syscall.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/ecjpake.c:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/base64_internal.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/cmac.h:
-
-/usr/include/string.h:
-
-/usr/include/aarch64-linux-gnu/bits/xopen_lim.h:
-
-/usr/include/aarch64-linux-gnu/bits/floatn.h:
-
-/usr/include/aarch64-linux-gnu/bits/posix_opt.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/chachapoly.h:
-
-/usr/include/aarch64-linux-gnu/bits/stdint-least.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/camellia.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform.h:
-
-/usr/lib/gcc/aarch64-linux-gnu/13/include/limits.h:
-
-/usr/include/aarch64-linux-gnu/bits/string_fortified.h:
+/usr/include/x86_64-linux-gnu/bits/types/FILE.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h:
 
@@ -7267,197 +7032,41 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_feat
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/alignment.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/error.h:
+/usr/include/x86_64-linux-gnu/bits/stdio2-decl.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/error_t.h:
+/usr/include/x86_64-linux-gnu/sys/select.h:
 
-/usr/include/aarch64-linux-gnu/asm/sve_context.h:
+/usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
 
-/usr/include/linux/errno.h:
+/usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
 
-/usr/include/aarch64-linux-gnu/sys/types.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp.c:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h:
-
-/usr/include/aarch64-linux-gnu/bits/libc-header-start.h:
-
-/usr/include/aarch64-linux-gnu/bits/posix1_lim.h:
-
-/usr/include/aarch64-linux-gnu/bits/long-double.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/__locale_t.h:
-
-/usr/include/aarch64-linux-gnu/bits/floatn-common.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/chacha20.c:
-
-/usr/include/aarch64-linux-gnu/bits/getopt_posix.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/aesni.h:
-
-/usr/include/aarch64-linux-gnu/asm/types.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_its_file.c:
-
-/usr/include/aarch64-linux-gnu/bits/stdint-uintn.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/cmac.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/poly1305.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/platform.c:
-
-/usr/include/aarch64-linux-gnu/bits/stdio2.h:
-
-/usr/include/aarch64-linux-gnu/bits/errno.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/timer_t.h:
-
-/usr/include/aarch64-linux-gnu/asm/unistd.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h:
-
-/usr/include/assert.h:
-
-/usr/lib/gcc/aarch64-linux-gnu/13/include/arm_fp16.h:
-
-/usr/include/aarch64-linux-gnu/bits/select2.h:
-
-/usr/include/aarch64-linux-gnu/bits/stdlib-float.h:
-
-/usr/include/aarch64-linux-gnu/bits/time.h:
-
-/usr/include/aarch64-linux-gnu/bits/pthread_stack_min.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/bn_mul.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h:
-
-/usr/include/aarch64-linux-gnu/bits/sigevent-consts.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c:
-
-/usr/lib/gcc/aarch64-linux-gnu/13/include/arm_neon.h:
-
-/usr/include/aarch64-linux-gnu/sys/select.h:
-
-/usr/include/aarch64-linux-gnu/gnu/stubs-lp64.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/hkdf.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/camellia.h:
-
-/usr/include/aarch64-linux-gnu/bits/stdlib.h:
+/usr/include/unistd.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/config_adjust_x509.h:
 
-/usr/include/aarch64-linux-gnu/bits/stdlib-bsearch.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/error.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/padlock.h:
+/usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h:
 
-/usr/include/aarch64-linux-gnu/bits/pthreadtypes-arch.h:
+/usr/include/linux/errno.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/aes.c:
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/md5.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c:
 
-/usr/include/aarch64-linux-gnu/bits/pthreadtypes.h:
+/usr/include/stdc-predef.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha3.h:
+/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
 
-/usr/include/aarch64-linux-gnu/bits/strings_fortified.h:
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time_impl.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/aesni.h:
 
-/usr/include/aarch64-linux-gnu/bits/byteswap.h:
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/base64_internal.h:
-
-/usr/include/aarch64-linux-gnu/bits/types.h:
-
-/usr/lib/gcc/aarch64-linux-gnu/13/include/arm_bf16.h:
-
-/usr/include/aarch64-linux-gnu/bits/struct_mutex.h:
-
-/usr/include/aarch64-linux-gnu/bits/timesize.h:
-
-/usr/include/aarch64-linux-gnu/bits/select.h:
-
-/usr/lib/gcc/aarch64-linux-gnu/13/include/syslimits.h:
-
-/usr/include/aarch64-linux-gnu/bits/stdio_lim.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/config_adjust_legacy_crypto.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/pem.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/pkcs5.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/nist_kw.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h:
-
-/usr/include/aarch64-linux-gnu/bits/uintn-identity.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/asn1write.c:
-
-/usr/include/aarch64-linux-gnu/bits/types/__fpos_t.h:
-
-/usr/include/aarch64-linux-gnu/bits/thread-shared-types.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/chacha20.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto.c:
-
-/usr/lib/gcc/aarch64-linux-gnu/13/include/stdarg.h:
-
-/usr/include/aarch64-linux-gnu/bits/signal_ext.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/__FILE.h:
-
-/usr/include/aarch64-linux-gnu/bits/posix2_lim.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/aria.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/pk_ecc.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/psa_util.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/__fpos64_t.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/ccm.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/chachapoly.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/constant_time.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_wrap.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/pkwrite.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h:
-
-/usr/include/aarch64-linux-gnu/bits/wchar.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_wrap.c:
-
-/usr/include/aarch64-linux-gnu/gnu/stubs.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/constant_time.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/ctr.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_invasive.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/oid.c:
+/usr/include/x86_64-linux-gnu/bits/endian.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h:
 
@@ -7465,19 +7074,151 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_feat
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/sig_atomic_t.h:
+/usr/include/inttypes.h:
+
+/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/oid.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core.c:
+
+/usr/include/x86_64-linux-gnu/sys/types.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/config_adjust_legacy_crypto.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/pem.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_internal.h:
+
+/usr/include/features-time64.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/unistd-decl.h:
+
+/usr/include/stdint.h:
+
+/usr/include/endian.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy_poll.c:
+
+/home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio.h:
+
+/usr/include/x86_64-linux-gnu/bits/endianness.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/chachapoly.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/md_wrap.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/aes.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/private_access.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/psa_util.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/stack_t.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c:
+
+/usr/include/x86_64-linux-gnu/bits/floatn-common.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/asn1parse.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto_builtin_key_derivation.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigevent-consts.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
+
+/usr/include/x86_64-linux-gnu/bits/signum-generic.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/dhm.c:
+
+/usr/include/x86_64-linux-gnu/asm/unistd_64.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_client.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/bignum_core.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/camellia.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/hkdf.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/cmac.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/poly1305.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/platform.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/build_info.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/long-double.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/md5.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
+
+/usr/include/x86_64-linux-gnu/bits/select2.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/camellia.c:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
+
+/usr/include/limits.h:
+
+/usr/include/string.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/cmac.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/chachapoly.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_invasive.h:
+
+/usr/include/x86_64-linux-gnu/bits/unistd_ext.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_wrap.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/pkwrite.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/cipher_wrap.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/ccm.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/__sigset_t.h:
-
 /home/dev/ws/pico-sdk/lib/mbedtls/library/des.c:
-
-/usr/include/aarch64-linux-gnu/bits/types/locale_t.h:
-
-/usr/include/aarch64-linux-gnu/bits/types/clock_t.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/dhm.c:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/config_adjust_ssl.h:
 
@@ -7487,17 +7228,15 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_feat
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h:
 
-/usr/include/aarch64-linux-gnu/bits/procfs-prregset.h:
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/poly1305.c:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/pem.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecjpake.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp.c:
-
-/usr/include/unistd.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/ecjpake.c:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/threading.h:
 
@@ -7505,105 +7244,113 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_feat
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_internal_alt.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs5.c:
-
-/usr/include/aarch64-linux-gnu/bits/time64.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy_poll.h:
-
-/home/dev/ws/pico/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h:
-
-/usr/include/aarch64-linux-gnu/bits/unistd_ext.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy_poll.c:
-
-/usr/include/aarch64-linux-gnu/bits/sigaction.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/timing.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/mps_trace.c:
-
-/usr/include/aarch64-linux-gnu/asm/bitsperlong.h:
-
-/usr/include/aarch64-linux-gnu/sys/syscall.h:
-
-/usr/include/aarch64-linux-gnu/asm/errno.h:
-
-/usr/include/aarch64-linux-gnu/bits/confname.h:
-
-/usr/include/aarch64-linux-gnu/bits/siginfo-arch.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/oid.h:
-
-/usr/include/aarch64-linux-gnu/bits/environments.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/error.c:
-
-/usr/include/aarch64-linux-gnu/bits/getopt_core.h:
-
 /usr/include/signal.h:
 
 /usr/include/strings.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_curves.c:
-
 /home/dev/ws/pico-sdk/lib/mbedtls/library/ctr_drbg.c:
 
-/usr/include/aarch64-linux-gnu/bits/syscall.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/ecp_curves.c:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/pkcs12.h:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:
 
-/usr/include/aarch64-linux-gnu/bits/timex.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy.c:
 
-/usr/include/aarch64-linux-gnu/bits/uio_lim.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs5.c:
 
-/usr/include/aarch64-linux-gnu/bits/unistd.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/entropy_poll.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/mps_reader.c:
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/timing.h:
 
-/usr/include/asm-generic/types.h:
+/usr/include/asm-generic/errno-base.h:
 
-/usr/include/aarch64-linux-gnu/bits/select-decl.h:
-
-/usr/include/asm-generic/bitsperlong.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c:
 
 /usr/include/linux/close_range.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/hmac_drbg.h:
+/usr/include/x86_64-linux-gnu/asm/unistd.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/ripemd160.h:
+/usr/include/x86_64-linux-gnu/bits/confname.h:
 
-/usr/include/stdc-predef.h:
+/usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c:
+/usr/include/x86_64-linux-gnu/bits/environments.h:
 
-/usr/include/aarch64-linux-gnu/bits/procfs-extra.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/error.c:
 
-/usr/include/aarch64-linux-gnu/bits/atomic_wide_counter.h:
+/usr/include/x86_64-linux-gnu/bits/signum-arch.h:
+
+/usr/include/x86_64-linux-gnu/bits/errno.h:
+
+/usr/include/x86_64-linux-gnu/bits/getopt_core.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/version_features.c:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
+
+/usr/include/x86_64-linux-gnu/bits/syscall.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/ripemd160.c:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/timex.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/aria.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/pk_ecc.c:
+
+/usr/include/x86_64-linux-gnu/bits/types/error_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/uio_lim.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/pkcs12.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/pkcs5.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/nist_kw.c:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha1.h:
 
-/usr/include/linux/stddef.h:
+/usr/include/x86_64-linux-gnu/sys/time.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/bn_mul.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/version.h:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_se.c:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/hmac_drbg.c:
 
-/usr/include/aarch64-linux-gnu/bits/stdio2-decl.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/md_wrap.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/md.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha3.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_sigstack.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/md5.c:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/pkcs12.c:
 
+/usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
+
 /home/dev/ws/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c:
+
+/home/dev/ws/pico-sdk/lib/mbedtls/library/mps_reader.c:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/padlock.c:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/pk.c:
-
-/usr/include/aarch64-linux-gnu/bits/unistd-decl.h:
 
 /usr/include/errno.h:
 
@@ -7611,11 +7358,13 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_feat
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/pkparse.c:
 
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
 /home/dev/ws/pico-sdk/lib/mbedtls/library/pk_wrap.h:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/pkwrite.h:
+/usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/FILE.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/pkwrite.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/psa/build_info.h:
 
@@ -7624,12 +7373,6 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_feat
 /home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto_builtin_composites.h:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/asn1parse.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto_builtin_key_derivation.h:
-
-/usr/include/aarch64-linux-gnu/bits/waitstatus.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto_compat.h:
 
@@ -7647,26 +7390,18 @@ lib/CMakeFiles/mbedtls.dir/home/dev/ws/pico-sdk/lib/mbedtls/library/version_feat
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto_platform.h:
 
-/usr/include/aarch64-linux-gnu/bits/types/__sigval_t.h:
-
 /home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto_sizes.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/mbedtls/des.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto_types.h:
 
-/usr/include/aarch64-linux-gnu/bits/stdio.h:
-
 /home/dev/ws/pico-sdk/lib/mbedtls/include/psa/crypto_values.h:
-
-/usr/include/asm-generic/unistd.h:
 
 /home/dev/ws/pico-sdk/lib/mbedtls/library/platform_util.c:
 
-/usr/include/aarch64-linux-gnu/bits/local_lim.h:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/sha256.c:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/md.c:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/rsa_alt_helpers.c:
 
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c:
-
-/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_client.c:
+/home/dev/ws/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c:

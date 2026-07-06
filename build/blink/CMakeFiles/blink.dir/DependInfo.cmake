@@ -18,6 +18,7 @@ set(CMAKE_DEPENDS_CHECK_ASM
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S" "/home/dev/ws/pico/build/blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S.o"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S" "/home/dev/ws/pico/build/blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S.o"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S" "/home/dev/ws/pico/build/blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S.o"
+  "/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S" "/home/dev/ws/pico/build/blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S.o"
   )
 set(CMAKE_ASM_COMPILER_ID "GNU")
 
@@ -37,6 +38,7 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
   "LIB_PICO_DIVIDER_COMPILER=1"
   "LIB_PICO_DOUBLE=1"
   "LIB_PICO_DOUBLE_PICO=1"
+  "LIB_PICO_DOUBLE_PICO_DCP=1"
   "LIB_PICO_FLASH=1"
   "LIB_PICO_FLOAT=1"
   "LIB_PICO_FLOAT_PICO=1"
@@ -81,7 +83,10 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
   "PICO_ON_DEVICE=1"
   "PICO_RP2350=1"
   "PICO_TARGET_NAME=\"blink\""
+  "PICO_THREAD_LOCAL_MODE_PER_THREAD=1"
+  "PICO_THREAD_LOCAL_THREAD_POINTER_ARM_AEABI_CONFIRMED=1"
   "PICO_USE_BLOCKED_RAM=0"
+  "PICO_XIP_RAM=0"
   )
 
 # The include file search paths:
@@ -139,7 +144,9 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/include"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_multicore/include"
   "/home/dev/ws/pico-sdk/src/common/boot_picobin_headers/include"
+  "/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/include"
   "/home/dev/ws/pico-sdk/src/rp2350/boot_stage2/include"
+  "/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/include"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/include"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/include"
   "/home/dev/ws/pico-sdk/src/rp2_common/hardware_flash/include"
@@ -168,6 +175,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/dev/ws/pico-sdk/src/common/pico_time/time.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/time.c.o.d"
   "/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_time/timeout_helper.c.o.d"
   "/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/datetime.c.o.d"
+  "/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/fixed_bitset.c.o.d"
   "/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/pheap.c.o.d"
   "/home/dev/ws/pico-sdk/src/common/pico_util/queue.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/common/pico_util/queue.c.o.d"
   "/home/dev/ws/pico-sdk/src/rp2350/pico_platform/platform.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2350/pico_platform/platform.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2350/pico_platform/platform.c.o.d"
@@ -195,6 +203,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_atomic/atomic.c.o.d"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o.d"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom_lock.c.o.d"
+  "/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/cxa_guard.c.o.d"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o.d"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.o.d"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.o.d"
@@ -220,6 +229,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o.d"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o.d"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.o.d"
+  "/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_thread_local/thread_local.c.o.d"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o.d"
   "/home/dev/ws/pico/blink/src/blink.c" "blink/CMakeFiles/blink.dir/src/blink.c.o" "gcc" "blink/CMakeFiles/blink.dir/src/blink.c.o.d"
   "/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.o" "gcc" "blink/CMakeFiles/blink.dir/home/dev/ws/pico-sdk/src/rp2_common/pico_cxx_options/new_delete.cpp.o.d"

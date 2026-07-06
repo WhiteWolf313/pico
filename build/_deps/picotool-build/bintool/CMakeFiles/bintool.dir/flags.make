@@ -3,15 +3,15 @@
 
 # compile C with /usr/bin/cc
 # compile CXX with /usr/bin/c++
-C_DEFINES = -DHAS_MBEDTLS=1 -DMBEDTLS_CONFIG_FILE=\"picotool_mbedtls_config.h\" -DNO_PICO_PLATFORM=1
+C_DEFINES = -DHAS_MBEDTLS=1 -DMBEDTLS_CONFIG_FILE=\"picotool_mbedtls_config.h\" -DPICO_BUILD=1 -DPICO_NO_HARDWARE=1 -DPICO_ON_DEVICE=0
 
-C_INCLUDES = -I/home/dev/ws/pico/build/_deps/picotool-src/bintool -I/home/dev/ws/pico/build/_deps/picotool-src/lib/include -I/home/dev/ws/pico/build/_deps/picotool-src/elf -I/home/dev/ws/pico/build/_deps/picotool-src/errors -isystem /home/dev/ws/pico-sdk/lib/mbedtls/include -isystem /home/dev/ws/pico-sdk/src/common/boot_picobin_headers/include
+C_INCLUDES = -I/home/dev/ws/pico/build/_deps/picotool-src/bintool -I/home/dev/ws/pico/build/_deps/picotool-src/lib/include -I/home/dev/ws/pico/build/_deps/picotool-src/elf -I/home/dev/ws/pico/build/_deps/picotool-src/model -I/home/dev/ws/pico/build/_deps/picotool-build/model -I/home/dev/ws/pico/build/_deps/picotool-src/errors -isystem /home/dev/ws/pico-sdk/lib/mbedtls/include -isystem /home/dev/ws/pico-sdk/src/common/boot_uf2_headers/include -isystem /home/dev/ws/pico-sdk/src/common/boot_picoboot_headers/include -isystem /home/dev/ws/pico-sdk/src/host/pico_platform/include -isystem /home/dev/ws/pico-sdk/src/common/boot_picobin_headers/include
 
 C_FLAGS = -O3 -DNDEBUG
 
-CXX_DEFINES = -DHAS_MBEDTLS=1 -DMBEDTLS_CONFIG_FILE=\"picotool_mbedtls_config.h\" -DNO_PICO_PLATFORM=1
+CXX_DEFINES = -DHAS_MBEDTLS=1 -DMBEDTLS_CONFIG_FILE=\"picotool_mbedtls_config.h\" -DPICO_BUILD=1 -DPICO_NO_HARDWARE=1 -DPICO_ON_DEVICE=0
 
-CXX_INCLUDES = -I/home/dev/ws/pico/build/_deps/picotool-src/bintool -I/home/dev/ws/pico/build/_deps/picotool-src/lib/include -I/home/dev/ws/pico/build/_deps/picotool-src/elf -I/home/dev/ws/pico/build/_deps/picotool-src/errors -isystem /home/dev/ws/pico-sdk/lib/mbedtls/include -isystem /home/dev/ws/pico-sdk/src/common/boot_picobin_headers/include
+CXX_INCLUDES = -I/home/dev/ws/pico/build/_deps/picotool-src/bintool -I/home/dev/ws/pico/build/_deps/picotool-src/lib/include -I/home/dev/ws/pico/build/_deps/picotool-src/elf -I/home/dev/ws/pico/build/_deps/picotool-src/model -I/home/dev/ws/pico/build/_deps/picotool-build/model -I/home/dev/ws/pico/build/_deps/picotool-src/errors -isystem /home/dev/ws/pico-sdk/lib/mbedtls/include -isystem /home/dev/ws/pico-sdk/src/common/boot_uf2_headers/include -isystem /home/dev/ws/pico-sdk/src/common/boot_picoboot_headers/include -isystem /home/dev/ws/pico-sdk/src/host/pico_platform/include -isystem /home/dev/ws/pico-sdk/src/common/boot_picobin_headers/include
 
 CXX_FLAGS = -O3 -DNDEBUG -std=gnu++14
 

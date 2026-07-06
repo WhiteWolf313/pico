@@ -9,9 +9,9 @@
 /home/dev/ws/pico-sdk/src/boards/include/boards/pico2_w.h
 
 /home/dev/ws/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h
-pico/platform.h
-/home/dev/ws/pico-sdk/src/common/boot_picobin_headers/include/boot/pico/platform.h
 stdbool.h
+-
+stdint.h
 -
 
 /home/dev/ws/pico-sdk/src/common/pico_base_headers/include/pico.h
@@ -70,6 +70,10 @@ hardware/platform_defs.h
 
 /home/dev/ws/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/sio.h
 
+/home/dev/ws/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/watchdog.h
+
+/home/dev/ws/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/xip.h
+
 /home/dev/ws/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/accessctrl.h
 hardware/address_mapped.h
 /home/dev/ws/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/hardware/address_mapped.h
@@ -95,6 +99,12 @@ hardware/regs/m33.h
 /home/dev/ws/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/hardware/regs/m33.h
 
 /home/dev/ws/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/scb.h
+hardware/address_mapped.h
+/home/dev/ws/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/hardware/address_mapped.h
+hardware/regs/m33.h
+/home/dev/ws/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/hardware/regs/m33.h
+
+/home/dev/ws/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/systick.h
 hardware/address_mapped.h
 /home/dev/ws/pico-sdk/src/rp2350/hardware_structs/include/hardware/structs/hardware/address_mapped.h
 hardware/regs/m33.h
@@ -133,6 +143,8 @@ hardware/structs/nvic.h
 /home/dev/ws/pico-sdk/src/rp2350/pico_platform/include/pico/platform/hardware/structs/nvic.h
 hardware/structs/scb.h
 /home/dev/ws/pico-sdk/src/rp2350/pico_platform/include/pico/platform/hardware/structs/scb.h
+hardware/structs/systick.h
+/home/dev/ws/pico-sdk/src/rp2350/pico_platform/include/pico/platform/hardware/structs/systick.h
 
 /home/dev/ws/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h
 pico/platform.h
@@ -235,6 +247,10 @@ hardware/regs/addressmap.h
 /home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/hardware/regs/addressmap.h
 hardware/regs/sio.h
 /home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/hardware/regs/sio.h
+hardware/regs/xip.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/hardware/regs/xip.h
+hardware/regs/watchdog.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/hardware/regs/watchdog.h
 pico/binary_info/defs.h
 /home/dev/ws/pico-sdk/src/rp2_common/pico_crt0/pico/binary_info/defs.h
 boot/picobin.h
@@ -253,6 +269,8 @@ embedded_end_block.inc.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_dcp.S
 pico/asm_helper.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_double/pico/asm_helper.S
+pico/double.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_double/pico/double.h
 hardware/dcp_instr.inc.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_double/hardware/dcp_instr.inc.S
 hardware/dcp_canned.inc.S
@@ -261,10 +279,14 @@ hardware/dcp_canned.inc.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_conv_m33.S
 pico/asm_helper.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_double/pico/asm_helper.S
+pico/double.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_double/pico/double.h
 
 /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_fma_dcp.S
 pico/asm_helper.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_double/pico/asm_helper.S
+pico/double.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_double/pico/double.h
 hardware/dcp_instr.inc.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_double/hardware/dcp_instr.inc.S
 hardware/dcp_canned.inc.S
@@ -273,6 +295,14 @@ hardware/dcp_canned.inc.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_double/double_sci_m33.S
 pico/asm_helper.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_double/pico/asm_helper.S
+pico/double.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_double/pico/double.h
+
+/home/dev/ws/pico-sdk/src/rp2_common/pico_double/include/pico/double.h
+pico.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_double/include/pico/pico.h
+math.h
+-
 
 /home/dev/ws/pico-sdk/src/rp2_common/pico_flash/include/pico/flash.h
 pico.h
@@ -281,14 +311,28 @@ pico.h
 /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_common_m33.S
 pico/asm_helper.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_float/pico/asm_helper.S
+pico/float.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_float/pico/float.h
 
 /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_conv32_vfp.S
 pico/asm_helper.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_float/pico/asm_helper.S
+pico/float.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_float/pico/float.h
 
 /home/dev/ws/pico-sdk/src/rp2_common/pico_float/float_sci_m33_vfp.S
 pico/asm_helper.S
 /home/dev/ws/pico-sdk/src/rp2_common/pico_float/pico/asm_helper.S
+pico/float.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_float/pico/float.h
+
+/home/dev/ws/pico-sdk/src/rp2_common/pico_float/include/pico/float.h
+pico.h
+/home/dev/ws/pico-sdk/src/rp2_common/pico_float/include/pico/pico.h
+math.h
+-
+float.h
+-
 
 /home/dev/ws/pico-sdk/src/rp2_common/pico_platform_common/include/pico/platform/common.h
 
@@ -299,6 +343,10 @@ sys/cdefs.h
 -
 pico/types.h
 /home/dev/ws/pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/pico/types.h
+
+/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/custom_panic_function.S
+pico/asm_helper.S
+/home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/pico/asm_helper.S
 
 /home/dev/ws/pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h
 

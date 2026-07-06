@@ -231,13 +231,13 @@ bs2_default_library/fast:
 	cd /home/dev/ws/pico/build && $(MAKE) $(MAKESILENT) -f pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/build.make pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/build
 .PHONY : bs2_default_library/fast
 
-bs2_default_padded_checksummed.o: bs2_default_padded_checksummed.S.o
-.PHONY : bs2_default_padded_checksummed.o
+bs2_default_padded.o: bs2_default_padded.S.o
+.PHONY : bs2_default_padded.o
 
 # target to build an object file
-bs2_default_padded_checksummed.S.o:
-	cd /home/dev/ws/pico/build && $(MAKE) $(MAKESILENT) -f pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/build.make pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o
-.PHONY : bs2_default_padded_checksummed.S.o
+bs2_default_padded.S.o:
+	cd /home/dev/ws/pico/build && $(MAKE) $(MAKESILENT) -f pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/build.make pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded.S.o
+.PHONY : bs2_default_padded.S.o
 
 compile_time_choice.o: compile_time_choice.S.o
 .PHONY : compile_time_choice.o
@@ -264,7 +264,7 @@ help:
 	@echo "... picotoolForceReconfigure"
 	@echo "... bs2_default"
 	@echo "... bs2_default_library"
-	@echo "... bs2_default_padded_checksummed.o"
+	@echo "... bs2_default_padded.o"
 	@echo "... compile_time_choice.o"
 .PHONY : help
 
