@@ -146,12 +146,14 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/dev/ws/pico-sdk/tools/Findpioasm.cmake"
   "/home/dev/ws/pico/CMakeLists.txt"
   "/home/dev/ws/pico/blink/CMakeLists.txt"
+  "/home/dev/ws/pico/btn/CMakeLists.txt"
   "CMakeFiles/3.28.3/CMakeASMCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.28.3/CMakeSystem.cmake"
   "pico-sdk/src/rp2350/boot_stage2/picotool/tmp/picotoolBuild-mkdirs.cmake"
   "pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp/pioasmBuild-mkdirs.cmake"
+  "/home/dev/ws/pico/log/CMakeLists.txt"
   "/usr/share/cmake-3.28/Modules/CMakeASMCompiler.cmake.in"
   "/usr/share/cmake-3.28/Modules/CMakeASMInformation.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in"
@@ -408,6 +410,10 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "pico-sdk/docs/CMakeFiles/CMakeDirectoryInformation.cmake"
   "blink/CMakeFiles/CMakeDirectoryInformation.cmake"
   "blink/pico-sdk/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "log/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "log/pico-sdk/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "btn/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "btn/pico-sdk/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -421,4 +427,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir/DependInfo.cmake"
   "pico-sdk/src/rp2_common/pico_status_led/CMakeFiles/pico_status_led_ws2812_pio_h.dir/DependInfo.cmake"
   "blink/CMakeFiles/blink.dir/DependInfo.cmake"
+  "log/CMakeFiles/log.dir/DependInfo.cmake"
+  "btn/CMakeFiles/btn.dir/DependInfo.cmake"
   )
